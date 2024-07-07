@@ -2,6 +2,9 @@
 
 This is a project for detecting potholes in videos using a YOLO model.
 
+Example Output
+![Pothole Detector Output](image/Screenshot 2024-07-07 141540.png)
+
 ## Requirements
 
 - Python 3.x
